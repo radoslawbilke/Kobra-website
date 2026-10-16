@@ -10,7 +10,7 @@ This is a website I made for a veterinary clinic. The main concept was to create
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Kobra-website/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Kobra-website/)
 
 ## My process
 
